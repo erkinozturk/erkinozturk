@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Erkin
+# Hi there, I'm Erkin 👋
 
 <p><em>Graduated from <a href="https://www.sakarya.edu.tr">Sakarya University</a></em></p>
 
