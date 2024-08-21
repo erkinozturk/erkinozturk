@@ -1,16 +1,9 @@
 <h1 align="center">Hi there, I'm Erkin 👋</h1>
 
-<p align="center"><em>Graduated from <a href="https://www.sakarya.edu.tr">Sakarya University</a></em></p>
 <p align="center">I really enjoy learning languages and frameworks like React and React Native. I also enjoy editing videos.</p>
 <br>
 <p align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"></p>
 
-<h2 align="center">Connect with me</h2>
-
-<p align="center">
-<a href="https://linkedin.com/in/erkinozturk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erkinozturk" height="35" width="40" /></a>
-<a href="https://twitter.com/erkinozturk_" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="erkinozturk_" height="35" width="40" /></a>
-</p>
 
 <h2 align="center">Languages & Tools</h2>
 
